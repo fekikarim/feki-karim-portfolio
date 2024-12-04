@@ -28,7 +28,7 @@ This portfolio leverages a combination of modern web technologies to deliver a s
 
 ## 🖼️ Preview
 
-You can view the live version of the portfolio [here](https://your-portfolio-link.com).
+You can view the live version of the portfolio [here](https://fekikarim.github.io/feki-karim-portfolio/).
 
 ---
 
@@ -104,9 +104,9 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 If you have any questions or would like to collaborate, reach out to me:
 
-- **Email**: [feki.karim@example.com](mailto:feki.karim@outlook.com)
+- **Email**: [feki.karim@outlook.com](mailto:feki.karim@outlook.com)
 - **LinkedIn**: [Feki Karim](https://www.linkedin.com/in/karimfeki/)
-- **Portfolio Website**: [feki-karim-portfolio.com](https://feki-karim-portfolio.com)
+- **Portfolio Website**: [fekikarim.github.io/feki-karim-portfolio](https://fekikarim.github.io/feki-karim-portfolio/)
 
 ---
 
