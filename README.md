@@ -1,5 +1,7 @@
 # Feki Karim Portfolio
 
+![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 Welcome to the **Feki Karim Portfolio** repository! This project showcases my skills, experience, and projects as a developer, designer, and consultant. It includes highlights of my professional journey, creative work, and technical expertise.
 
 ---
