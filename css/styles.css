@@ -4361,3 +4361,29 @@ td:last-child {
         right: -2rem;
     }
 }
+
+
+/* Sleek Scrollbar Styling */
+::-webkit-scrollbar {
+    width: 12px; /* Standard width */
+}
+
+::-webkit-scrollbar-track {
+    background: rgba(255, 255, 255, 0.5); /* White with 50% opacity */
+    border-radius: 10px; /* Rounded edges for a modern feel */
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgba(0, 0, 0, 0.9); /* Black with 90% opacity */
+    transition: background 0.3s ease, transform 0.3s ease; /* Smooth hover effect */
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: rgba(0, 0, 0, 1); /* Fully opaque black on hover */
+    transform: scale(1.1); /* Subtle enlargement for interactivity */
+}
+
+::-webkit-scrollbar-thumb:active {
+    background: rgba(0, 0, 0, 0.8); /* Slightly less opaque on active state */
+    transform: scale(1); /* Reset size when clicked */
+}
